@@ -1,0 +1,9 @@
+Turtle programming
+
+"Turtle" is a python feature like a drawing board, which allows us to command a turtle to draw all over it.
+
+We can use functions like...
+turtle.forward(...)
+turtle.right(...)
+etc....which allows us to move the turtle around.
+
